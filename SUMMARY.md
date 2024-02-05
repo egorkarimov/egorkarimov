@@ -10,7 +10,6 @@
 
 * [🪑 Poetry](poetry/poetry/README.md)
   * [(Три стихии)](poetry/poetry/tri-stikhii.md)
-  * [(Три стихии)](poetry/poetry/tri-stikhii-1.md)
 * [🪨 Heralds](poetry/heralds.md)
 
 ## Prose
