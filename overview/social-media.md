@@ -1,5 +1,5 @@
 ---
-description: Yegór Karimov's on Social Media
+description: Yegór Karimov on Social Media
 ---
 
 # 👍 Social Media
