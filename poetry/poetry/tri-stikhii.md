@@ -35,6 +35,6 @@ layout:
 
 
 Yegór Karimov
-<strong>January, 2024
-</strong>
+January, 2024
+
 </code></pre>
