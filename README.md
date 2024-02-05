@@ -25,7 +25,7 @@ Please follow Yegór on [Social Media](overview/social-media.md) to stay updated
 
 ## Prose
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Прятки</strong></td><td></td><td></td><td><a href=".gitbook/assets/senecio.jpg">senecio.jpg</a></td><td><a href="prose/written-works.md">written-works.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Прятки</strong></td><td></td><td></td><td><a href=".gitbook/assets/senecio.jpg">senecio.jpg</a></td><td><a href="prose/written-works/">written-works</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Poetry
 

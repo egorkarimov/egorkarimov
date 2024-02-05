@@ -6,18 +6,19 @@
 * [😒 Bio](overview/bio.md)
 * [👍 Social Media](overview/social-media.md)
 
-## Prose
-
-* [🤔 Meditations](prose/meditations.md)
-* [📑 Written Works](prose/written-works.md)
-
 ## Poetry
 
 * [🪑 Poetry](poetry/poetry/README.md)
   * [(Три стихии)](poetry/poetry/tri-stikhii.md)
 * [🪨 Heralds](poetry/heralds.md)
-* [⭐ Other Authors](poetry/other-authors.md)
+
+## Prose
+
+* [🤔 Meditations](prose/meditations.md)
+* [📑 Written Works](prose/written-works/README.md)
+  * [Articles](prose/written-works/articles.md)
+  * [Story](prose/written-works/story.md)
 
 ## Projects
 
-* [✍ Currently Working](projects/currently-working.md)
+* [🔥 Currently Working](projects/currently-working.md)

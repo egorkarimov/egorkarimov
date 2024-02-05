@@ -1,2 +1,0 @@
-# ⭐ Other Authors
-
