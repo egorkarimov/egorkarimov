@@ -17,7 +17,7 @@ layout:
 
 Here you can find relevant information about the author, read original works and learn about the projects he is involved in.
 
-Please follow Yegór's social media to stay updated, ask questions and participate in emerging discussions.
+Please follow Yegór's [social media](./#social-media) to stay updated, ask questions and participate in emerging discussions.
 
 ***
 
