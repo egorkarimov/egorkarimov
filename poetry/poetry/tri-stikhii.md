@@ -34,7 +34,7 @@ layout:
 
 
 
-<strong>Yegór Karimov
-</strong><strong>January, 2024
+Yegór Karimov
+<strong>January, 2024
 </strong>
 </code></pre>
