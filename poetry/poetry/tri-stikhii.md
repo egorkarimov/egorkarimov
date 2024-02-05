@@ -14,7 +14,7 @@ layout:
 
 # (Три стихии)
 
-<pre data-overflow="wrap"><code>
+<pre class="language-xml" data-overflow="wrap"><code class="lang-xml">
 <strong>* * *
 </strong>
 
@@ -33,7 +33,8 @@ layout:
 Я уверяю, всё так и будет. Хорошего вина для всех найдется. Оно с горчинкой, но зато всё полновкусье, а сердцевину никто отнять не может. Не удивляйтесь, что белое вино черпается прямо из колодца. Так было раньше, и теперь все тоже очень просто.
 
 
-<strong>Егор Каримов
-</strong><strong>Январь, 2024
+
+<strong>Yegór Karimov
+</strong><strong>January, 2024
 </strong>
 </code></pre>
