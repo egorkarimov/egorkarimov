@@ -3,8 +3,9 @@
 ## Overview
 
 * [👋 Overview](README.md)
-* [🍇 What I do](overview/what-i-do.md)
 * [😒 Bio](overview/bio.md)
+* [🍇 What I do](overview/what-i-do.md)
+* [👍 Social Media](overview/social-media.md)
 
 ## Prose
 
