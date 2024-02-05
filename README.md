@@ -33,8 +33,12 @@ Please follow Yegór's [social media](./#social-media) to stay updated, ask ques
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
+***
+
 ## Social Media & Contacts
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Join the Telegram Channel to follow up with updates on the website.</td><td></td><td></td><td><a href=".gitbook/assets/tg_media_cover.png">tg_media_cover.png</a></td></tr><tr><td>Don't hesitate to send me a friend request to follow me on Facebook.</td><td><strong>Facebook</strong></td><td></td><td><a href=".gitbook/assets/fb_media_cover.png">fb_media_cover.png</a></td></tr><tr><td>Join the Discord Server to stay updated with the website, be in touch, and participate in online discussions.</td><td></td><td></td><td><a href=".gitbook/assets/discord_media_cover.png">discord_media_cover.png</a></td></tr></tbody></table>
+Follow Yegór on social media or write directly via [email](mailto:egor.karimov@gmail.com).
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Join the Telegram Channel to follow up with updates on the website.</td><td></td><td></td><td><a href=".gitbook/assets/tg_media_cover.png">tg_media_cover.png</a></td><td><a href="https://tg.me/egorkarimov">https://tg.me/egorkarimov</a></td></tr><tr><td>Don't hesitate to send me a friend request to follow me on Facebook.</td><td><strong>Facebook</strong></td><td></td><td><a href=".gitbook/assets/fb_media_cover.png">fb_media_cover.png</a></td><td><a href="https://www.facebook.com/yegor.karimov.3">https://www.facebook.com/yegor.karimov.3</a></td></tr><tr><td>Join the Discord Server to stay updated with the website, be in touch, and participate in online discussions.</td><td></td><td></td><td><a href=".gitbook/assets/discord_media_cover.png">discord_media_cover.png</a></td><td></td></tr></tbody></table>
 
 ## Support Me on Ko-Fi
