@@ -34,7 +34,7 @@ layout:
 
 
 
-Егор Каримов
-Январь, 2024
-
+<strong>Егор Каримов
+</strong><strong>Январь, 2024
+</strong>
 </code></pre>
