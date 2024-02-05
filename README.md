@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# 👋 Overview
+# Black Heralds
 
 Here you can find relevant information about the author, read original works and learn about the projects Yegór Karimov is involved in. Website's presentation language is English. However, the works are published in their original language, and are mostly in Russian, English and Estonian.
 
