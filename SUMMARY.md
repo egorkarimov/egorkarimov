@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [👋 Profile](README.md)
+* [👋 Overview](README.md)
 * [🍇 What I do](overview/what-i-do.md)
 * [😒 Bio](overview/bio.md)
 
