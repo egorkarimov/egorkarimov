@@ -1,5 +1,5 @@
 ---
-description: Official website
+description: Official Website
 layout:
   title:
     visible: true
@@ -15,7 +15,7 @@ layout:
 
 # 👋 Yegór Karimov
 
-Here you can find relevant information about the author, read original works and learn about the projects Yegór Karimov is involved in. Website's presentation language is English. However, the works are published in their original language, and are mostly in Russian, English and Estonian.
+Here you can find relevant information about the author, read original works and learn about the projects Yegór Karimov is involved in. Website's presentation language is English. However, works are published in their original language; mostly in Russian, English and Estonian.
 
 Copying and publishing texts from this website is allowed only with explicit written permission from the author. Otherwise, a direct link to the content is necessary.
 
