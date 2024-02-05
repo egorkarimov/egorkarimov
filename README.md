@@ -19,16 +19,6 @@ Here you can find relevant information about the author, read original works and
 
 Please follow Yegór's social media to stay updated, ask questions and participate in emerging discussions.
 
-## :thumbsup: Social Media
-
-**->** [**Facebook**](https://www.facebook.com/yegor.karimov.3) &#x20;
-
-**-> Telegram**
-
-**-> Discord**
-
-## :heart: Support Me on Ko-Fi
-
 ***
 
 ## Prose
@@ -42,3 +32,15 @@ Please follow Yegór's social media to stay updated, ask questions and participa
 ## Projects
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+## :thumbsup: Social Media
+
+**->** [**Facebook**](https://www.facebook.com/yegor.karimov.3) &#x20;
+
+**-> Telegram**
+
+**-> Discord**
+
+**-> YouTube**
+
+## :heart: Support Creator on Ko-Fi
