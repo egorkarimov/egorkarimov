@@ -34,7 +34,7 @@ layout:
 
 
 
-Yegór Karimov
-January, 2024
+Егор Каримов
+Январь, 2024
 
 </code></pre>
