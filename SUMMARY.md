@@ -15,7 +15,7 @@
 
 * [🪑 Poetry](poetry/poetry/README.md)
   * [(Три стихии)](poetry/poetry/tri-stikhii.md)
-* [🪨 Experimental](poetry/experimental.md)
+* [🪨 Heralds](poetry/heralds.md)
 * [⭐ Other Authors](poetry/other-authors.md)
 
 ## Projects
