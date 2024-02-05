@@ -25,7 +25,7 @@ Please follow Yegór on [Social Media](overview/social-media.md) to stay updated
 
 ## Poetry
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>***</td><td>Птицы, ветви, воздух. Вот три стихии, что сотворили небо. Как я не понял? Листья ласкают ветер. Травы пахнут. Тропинка кабана к ручью лесному...</td><td><strong>Read more -></strong></td><td><a href="poetry/poetry/tri-stikhii.md">tri-stikhii.md</a></td><td><a href=".gitbook/assets/senecio.jpg">senecio.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>***<br>Птицы, ветви, воздух. Вот три стихии, что сотворили небо. Как я не понял? Листья ласкают ветер. Травы пахнут. Тропинка кабана к ручью лесному...</td><td>***</td><td></td><td><a href="poetry/poetry/tri-stikhii.md">tri-stikhii.md</a></td><td></td></tr></tbody></table>
 
 ## Prose
 
