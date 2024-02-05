@@ -15,7 +15,7 @@ layout:
 
 # 👋 Profile
 
-Here you can find relevant information about the author, read original works and learn about the projects he is involved in.
+Here you can find relevant information about the author, read original works and learn about the projects he is involved in. Website's presentation language is English, however, works are published in their original language, which is mostly Russian, English or Estonian.
 
 Please follow Yegór's [social media](./#social-media) to stay updated, ask questions and participate in emerging discussions.
 
@@ -35,12 +35,12 @@ Please follow Yegór's [social media](./#social-media) to stay updated, ask ques
 
 ## :thumbsup: Social Media
 
-**->** [**Facebook**](https://www.facebook.com/yegor.karimov.3) &#x20;
+[**Facebook**](https://www.facebook.com/yegor.karimov.3) &#x20;
 
-**-> Telegram**
+**Telegram**
 
-**-> Discord**
+**Discord**
 
-**-> YouTube**
+**YouTube**
 
 ## :heart: Support Creator on Ko-Fi
