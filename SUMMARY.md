@@ -8,9 +8,10 @@
 
 ## Poetry
 
-* [🪑 Poetry](poetry/poetry/README.md)
-  * [(Три стихии)](poetry/poetry/tri-stikhii.md)
-* [🪨 Heralds](poetry/heralds.md)
+* [🪑 Poetry](poetry/poetry.md)
+* [🪨 Heralds](poetry/heralds/README.md)
+  * [(Три стихии)](poetry/heralds/tri-stikhii.md)
+  * [ (Когда все умрут)](poetry/heralds/kogda-vse-umrut.md)
 
 ## Prose
 
