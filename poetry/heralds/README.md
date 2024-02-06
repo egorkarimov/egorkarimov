@@ -26,7 +26,7 @@ The term “heralds” is inherited from the poem “Black Heralds” by César 
 
 ### Original (Spanish)
 
-<pre><code>
+<pre data-overflow="wrap"><code>
 <strong>LOS HERALDOS NEGROS
 </strong> 
 
@@ -59,7 +59,7 @@ Hay golpes en la vida, tan fuertes . . . Yo no sé!
 
 ### Translation (English)
 
-<pre><code>
+<pre data-overflow="wrap"><code>
 <strong>THE BLACK HERALDS
 </strong>
 
@@ -92,7 +92,7 @@ There are blows in life, so powerful... I don’t know!
 
 ### Translation (Russian)
 
-<pre><code>
+<pre data-overflow="wrap"><code>
 <strong>ЧЕРНЫЕ ГЕРОЛЬДЫ
 </strong>
 
