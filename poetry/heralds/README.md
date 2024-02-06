@@ -22,6 +22,8 @@ Heralds and Heraldic Method — poetic form and principle defined by César Vall
 
 The term “heralds” is inherited from the poem “Black Heralds” by César Vallejo and means the harbingers of suffer, or resurrection to life.
 
+## The Black Heralds
+
 ### Original (Spanish)
 
 <pre><code>
