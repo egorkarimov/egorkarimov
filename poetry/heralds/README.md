@@ -15,7 +15,13 @@ layout:
 
 # 🪨 Heralds
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p>* * *<br></p><p>Птицы, ветви, воздух. Вот три стихии, что сотворили небо. Как я не понял? Листья ласкают ветер. Травы пахнут. Тропинка кабана к ручью лесному...</p></td><td></td><td></td><td><a href="tri-stikhii.md">tri-stikhii.md</a></td></tr><tr><td>* * * <br><br>Когда все умрут, останутся кресты. Поля с поросшими оградками поведают о людях в эпитафиях имен...</td><td></td><td></td><td><a href="kogda-vse-umrut.md">kogda-vse-umrut.md</a></td></tr></tbody></table>
+{% content-ref url="tri-stikhii.md" %}
+[tri-stikhii.md](tri-stikhii.md)
+{% endcontent-ref %}
+
+{% content-ref url="kogda-vse-umrut.md" %}
+[kogda-vse-umrut.md](kogda-vse-umrut.md)
+{% endcontent-ref %}
 
 ## About the Term
 
