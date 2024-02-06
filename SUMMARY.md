@@ -8,7 +8,7 @@
 
 ## Poetry
 
-* [🪑 Poetry / Поэзия](poetry/poetry-poeziya.md)
+* [🪑 Poetry](poetry/poetry.md)
 * [🪨 Heralds](poetry/heralds/README.md)
   * [(Три стихии)](poetry/heralds/tri-stikhii.md)
   * [ (Когда все умрут)](poetry/heralds/kogda-vse-umrut.md)
