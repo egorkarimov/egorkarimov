@@ -1,17 +1,29 @@
 ---
-description: Heralds — poetry form and writing principle defined by César Vallejo.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🪨 Heralds / Герольды
+# 🪨 Heralds
+
+Heralds and Heraldic Method — poetic form and principle defined by César Vallejo.
 
 > Not to publish anything, not a single word, until it is caused by my inner necessity, my organic, vital need, which is, as it were, outside of literature.
 >
 > — César Vallejo
 
+The term “heralds” is inherited from the poem “Black Heralds” by César Vallejo and means the harbingers of suffer, or resurrection to life.
 
+### Original (Spanish)
 
-{% tabs %}
-{% tab title="Original (Spanish)" %}
 <pre><code>
 <strong>LOS HERALDOS NEGROS
 </strong> 
@@ -39,13 +51,45 @@ se empoza, como un charco de culpa, en la mirada.
 Hay golpes en la vida, tan fuertes . . . Yo no sé!
 
 
+<strong>César Vallejo
+</strong>
+</code></pre>
+
+### Translation (English)
+
+<pre><code>
+<strong>THE BLACK HERALDS
+</strong>
+
+There are blows in life, so powerful... I don’t know!
+Blows as from God’s hatred; as if before them,
+the backlash of everything suffered
+were to dam up in the soul... I don’t know!
+
+They are few; but they are... They open dark furrows
+in the fiercest face and in the strongest side.
+Maybe they could be the horses of barbarous Attilas;
+or the black heralds Death sends us.
+
+They are the deep abysses of the soul’s Christs,
+of some revered faith Destiny blasphemes.
+Those gory blows are the cracklings of a bread
+that burns-up on us at the oven’s door.
+
+And man... Poor... poor! He turns his eyes,
+as when a slap on the shoulder calls us;
+he turns his crazed eyes, and everything lived
+is dammed up, like a pond of guilt, in his gaze.
+
+There are blows in life, so powerful... I don’t know!
+
 
 <strong>César Vallejo
 </strong>
 </code></pre>
-{% endtab %}
 
-{% tab title="Translation (Russian)" %}
+### Translation (Russian)
+
 <pre><code>
 <strong>ЧЕРНЫЕ ГЕРОЛЬДЫ
 </strong>
@@ -78,46 +122,10 @@ Hay golpes en la vida, tan fuertes . . . Yo no sé!
                                         сзади –
 глаза безумца — и всё, всё пережитое им,
 лужицами вины у него застывает во взгляде.
-В жизни бывают такие удары, такие...
 
+В жизни бывают такие удары, такие...
 
 
 <strong>Сéсар Вальехо
 </strong>
 </code></pre>
-{% endtab %}
-
-{% tab title="Translation (English)" %}
-<pre data-overflow="wrap"><code>
-<strong>THE BLACK HERALDS
-</strong>
-
-There are blows in life, so powerful... I don’t know!
-Blows as from God’s hatred; as if before them,
-the backlash of everything suffered
-were to dam up in the soul... I don’t know!
-
-They are few; but they are... They open dark furrows
-in the fi ercest face and in the strongest side.
-Maybe they could be the horses of barbarous Attilas;
-or the black heralds Death sends us.
-
-They are the deep abysses of the soul’s Christs,
-of some revered faith Destiny blasphemes.
-Those gory blows are the cracklings of a bread
-that burns-up on us at the oven’s door.
-
-And man... Poor... poor! He turns his eyes,
-as when a slap on the shoulder calls us;
-he turns his crazed eyes, and everything lived
-is dammed up, like a pond of guilt, in his gaze.
-
-There are blows in life, so powerful... I don’t know!
-
-
-
-<strong>César Vallejo
-</strong>
-</code></pre>
-{% endtab %}
-{% endtabs %}

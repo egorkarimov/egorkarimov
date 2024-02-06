@@ -9,9 +9,9 @@
 ## Poetry
 
 * [🪑 Poetry / Поэзия](poetry/poetry-poeziya.md)
-* [🪨 Heralds / Герольды](poetry/heralds-geroldy/README.md)
-  * [(Три стихии)](poetry/heralds-geroldy/tri-stikhii.md)
-  * [ (Когда все умрут)](poetry/heralds-geroldy/kogda-vse-umrut.md)
+* [🪨 Heralds](poetry/heralds/README.md)
+  * [(Три стихии)](poetry/heralds/tri-stikhii.md)
+  * [ (Когда все умрут)](poetry/heralds/kogda-vse-umrut.md)
 
 ## Prose
 
